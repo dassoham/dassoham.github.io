@@ -17,70 +17,63 @@ Education
 * PGDM in Human Rights & Duties, [Jadavpur University](http://www.jaduniv.edu.in/), Jun 2014
 * B.A in Political Science, [Jadavpur University](http://www.jaduniv.edu.in/), Jun 2013
 
+PhD Thesis
+======
+* Dissertation Title - Minority and Majority: Cleavages, Conflicts, and Electoral Politics in the Indian Sub-Continent
+* Chair - Paul F. Diehl | Committee - Jennifer Holmes, Meghna Sabharwal, and Vito
+D’Orazio
+* Description - This dissertation examines the aspects of ethnic conflict not only through
+the lens of the minorities, but studies the apprehension and threat perspective of the
+majority as well. Using social constructivist and horizontal inequality theories, the first
+part of the dissertation analyzes the impact of multiple, simultaneous cleavages rather
+than only one in isolation. Theoretical arguments are tested over 60 ethnic groups of the
+Indian Sub-Continent over 1947 – 2013. The second part of the doctoral research examines
+ethnic tensions from the majority’s point of view through the lens of security dilemma
+among the Hindus against Muslims over past four electoral cycles in India. Thereafter the
+research analyzes the politicization process of the threat perspective by right-wing for
+electoral benefits.
+
 Skills
 ======
-* Programming Languages - Python, R, SQL, Java, C, C++ 
-* Libraries - Tensorﬂow, Keras, PyTorch, Numpy, Scipy, NLTK, Spacy, Pandas
-* Databases - MySQL, PostgreSQL, Oracle
-* Big Data - Apache Hadoop, Apache Hive, Apache Spark, Impala, Sqoop, Flume 
-* Analytical Tools - Tableau, Power-BI, MS Excel, QlikView, SAP HANA, SAP Business Objects, SAS
+* Data Analytics
+* Statistical Procedures & Modeling
+* Data Visualization & Presentation
+* Analytical & Statistical Programming
+* Public Speaking
+* Instructional Design & Content Development
+* Writing & Reporing
 
-Industrial Experience
+
+Work Experience
 ======
-* Software Engineer, Tata Consultancy Services, Dec 2017 - Jun 2018
-  * Achieved 10% increase in defect identification by performing scaled automation testing using python test framework
-  * Reduced manual efforts by 20% per week by developing automated Python script for SALT failure triage process
-  * Leveraged SQL querying skills to extract data into Microsoft Excel by establishing a live connection
-  * Executed automation test scripts using selenium by formulating end-to-end testing on storage systems project
-  * Designed various test cases in accordance with the given business requirements by improvising on previous test cases
-  * Reviewed new areas of opportunity in daily agile standup meetings with team leads, product owner and stakeholders
-  * Analyzed and reported the number of hours saved per week in triage process by generating MS-Excel reports
-  * Enhanced product quality in concurrent sprints by developing scorecards to identify key areas of defects
+* Research Scientist, UT Dallas, Aug 2020 - Present
 
-Projects
+* Graduating Teaching & Research Assistant, UT Dallas, Aug 2015 - Aug 2020
+	* Independent Instructor, Summer 2018 - Spring 2020
+	* Graduate Research Assistant, Summer 2020
+	* Graduate Teaching Assistant, 2015 - 2019
+	* Graduate Administrative Assistant, Summer 2017, Summer 2019
+
+* Research Intern, Child Rights & You (CRY), Kolkata Chapter, Dec 2013 - Jan 2014
+	* Field surveyed four cities and two tea estates in West Bengal, India using snowball effect
+and elite interview method to prepare a report – Girl Child Abuses and Rights on
+rehabilitation approaches of trafficked women for CRY.
+
+* Part-Time Instructor - Communicative English & Corporate Communication
+
+
+Additional Courses Qualified To Teach
 ======
+* Social Science Research Methods, Theories of International Relations, Theories of
+Comparative Politics, International Law, Religion and Politics, Politics of South Asia,
+International Conflict, Conflict Management, International Organization.
 
-* Predictive Analytics Using SAP Business Objects, Nov 2019 - Dec 2019
-  * Estimated the future value of liquid assets by performing a time series analysis on the cash flow data
-  * Created interaction variables to reduce forecasting error of the predictive model by 6.8%
-  * Established rules for customer search patterns and constructed a flow graph by conducting association rule mining
-  * Predicted number of customers responding to the promotional offer with 91.97% accuracy by defining a classification model
 
-* Exploratory Data Analysis Using Tableau & Hive, May 2019 – Jun 2019
-  * Imported geolocation and truck information data into Hadoop File System by incorporating external tables using Hive
-  * Eliminated the skewness in the data by identifying and normalizing risk factor associated with truck accidents
-  * Identified cities prone to high number of accidents by integrating Apache Hadoop with Tableau dashboards
+Editorial Experience
+======
+* Editorial Contribution in the undergraduate textbook Readings in American National
+Government by Miller and Holmes, Summer 2017, Summer 2019
 
-* Bitcoin Price Prediction Using ARIMA Forecasting, Mar 2019
-  * Utilized cryptocurrency, crude oil and stock price variables to improve the forecasting accuracy of bitcoin prices by 9%
-  * Visualized periodogram and analyzed results to identify the trends in bitcoin prices based on seasonality 
-  * Optimized ARIMA model to efficiently forecast bitcoin prices and visualized the results using ggplot2
-
-* Google AdWords Campaign, Feb 2019 – Mar 2019
-  * Strategized SEM campaigns for Thea’s Star of Hope to increase brand awareness and donations towards cancer research studies
-  * Optimized bidding strategies by conducting adequate keyword research and improving the quality score of the ads
-  * Improved click-through rate (CTR) of a brand awareness campaign by 5.12%
-  * Designed dynamic ad groups for awareness campaign leading to a click-through rate (CTR) of 45.94%
-
-* Sales Prediction Using Multi-Linear Regression Analysis, Mar 2019
-  * Predicted the price based on customer demographics by extracting and cleaning 2 million records of Black Friday Sales
-  * Improved fitness of multi-linear regression model by 7.5% using advanced techniques like backward elimination
-
-* Accio Viand Food Ordering App, Aug 2018 – Dec 2018
-  * Produced a system analysis report by employing project management tools and techniques.
-  * Identified functional and non-functional requirements and modeled an information system by designing UML diagrams
-
-* Visual Analysis of Natural Disasters at ConocoPhillips Refineries Locations, Oct 2018
-  * Performed an exploratory design analysis on different Conoco Phillips Refineries locations
-  * Designed a narrative visualization of refineries by developing a dashboard of different story points and annotations
-  * Cataloged appropriate rhetoric and established a connected relationship between the story points
-
-* Standards Elimination Parser Using Natural language Processing
-  * Designed a parser for converting the Units/standards to intended standards as required by the user
-  * Engineered logic for a method used for converting words to number like four hundred gets converted to 400
-  * Strategized and implemented logic for conversion of time as per required time zone
-
- 
 <!---
 Publications
 ======
