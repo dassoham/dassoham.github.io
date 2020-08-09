@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* M.S. in Information Technology & Management, [The University of Texas at Dallas](https://www.utdallas.edu/), 2020 
-* B.Tech. in Computer Engineering, [University of Mumbai](https://mu.ac.in/), 2017
+* PhD. in Political Science, [The University of Texas at Dallas](https://www.utdallas.edu/), Aug 2020 
+* M.A. in Political Science, [The University of Texas at Dallas](https://www.utdallas.edu/), Aug 2017
+* M.A. in Political Science w International Relations, [Jadavpur University](http://www.jaduniv.edu.in/), Jun 2015
+* PGDM in Human Rights & Duties, [Jadavpur University](http://www.jaduniv.edu.in/), Jun 2014
+* B.A in Political Science, [Jadavpur University](http://www.jaduniv.edu.in/), Jun 2013
 
 Skills
 ======
