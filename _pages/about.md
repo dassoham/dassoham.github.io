@@ -9,11 +9,19 @@ redirect_from:
 ---
 
 <div style="text-align: justify">
-'In God we trust, all others bring data', this quote by W Edward Deming encompasses my learning as an undergrad at the University of Mumbai. The world we live is a wondrous place but at the same time might make you lose your sanity. Data helps you to bring sanity to chaos.
+I am a Research Scientist of Political Science at the University of Texas at Dallas. After finishing my
+studies in International Relations at Jadavpur University in India, I decided to further my education,
+and applied to The University of Texas – Dallas’ Political Science doctoral program in 2015. In
+addition to receiving PhD in Political Science in 2020 with a concentration in Research Methods, I
+simultaneously earned a Master of Arts in Political Science in 2017. My scholarly interests are at the
+intersection of sustainable development, ethnopolitics, civil conflict, social science data analysis, and
+electoral politics. This includes the causes of militarized conflict, peacekeeping, public policymaking,
+and majoritarian electoral dynamics of North America and South Asia. To perform such analytics
+effectively and accurately, I am proficient in using tools like Stata, Tableau, and Excel, and possess
+intermediate skills in Power BI and R.
 <br/><br/>
-I love trying make sense out of data and the joy that comes out of figuring out a puzzle. Oh yes, I do love puzzles. Academics has helped me shape my skills and given me the direction to pursue my career goals. My experience along with my fondness to build projects has buoyed my interest in working with large data sets and analytics. I believe that my current coursework will only make me more proficient in the field of data science and help me be a better data artisan that I was before.
-<br/><br/>
-I have a good hold of database design and development as well as data visualization tools and methods.
-<br/><br/>
-I am curious to apply my learning in to the real-world, and I hope you would support this quest of mine by assisting me in seeking internship opportunities.
+My research uses mixed-method research approaches and one of the projects on multifaceted
+deprivation and conflict was published in the Journal of South Asian Security and International
+Affairs (Vol 6, No 3). I am currently working as a researcher for a Harvard University and UT Dallas
+joint project under the DARPA Data Driven Discovery of Models (D3M) program.
 </div>
