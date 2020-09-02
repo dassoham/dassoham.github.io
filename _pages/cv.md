@@ -33,6 +33,16 @@ among the Hindus against Muslims over past four electoral cycles in India. There
 research analyzes the politicization process of the threat perspective by right-wing for
 electoral benefits.
 
+
+Awards
+======
+* PhD Research Small Grants, UT Dallas | 2019 and 2018
+* Best Graduate Paper Award, Western Social Science Association Conference | 2018
+* Second Runner Up, Second Annual Business Case Competition, Center for Global
+* Business, Naveen Jindal Institute for Indo-American Business Studies | 2018
+* Debesh Kamal Scholarship, RKM India | 2015
+
+
 Skills
 ======
 * Data Analytics
@@ -73,6 +83,20 @@ Editorial Experience
 ======
 * Editorial Contribution in the undergraduate textbook Readings in American National
 Government by Miller and Holmes, Summer 2017, Summer 2019
+
+
+Professional Memberships
+======
+** International Studies Association (ISA)
+** Canadian Political Science Association (CPSA)
+** Western Social Science Association (WSSA)
+
+Language Proficiency
+======
+** English - Professional proficiency
+** Bengali - Mother tongue
+** Hindi - Colloquial proficiency
+** Marathi - Limited proficiency
 
 <!---
 Publications
