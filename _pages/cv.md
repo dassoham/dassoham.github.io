@@ -33,7 +33,6 @@ among the Hindus against Muslims over past four electoral cycles in India. There
 research analyzes the politicization process of the threat perspective by right-wing for
 electoral benefits.
 
-
 Awards
 ======
 * PhD Research Small Grants, UT Dallas | 2019 and 2018
@@ -41,7 +40,6 @@ Awards
 * Second Runner Up, Second Annual Business Case Competition, Center for Global
 * Business, Naveen Jindal Institute for Indo-American Business Studies | 2018
 * Debesh Kamal Scholarship, RKM India | 2015
-
 
 Skills
 ======
@@ -52,7 +50,6 @@ Skills
 * Public Speaking
 * Instructional Design & Content Development
 * Writing & Reporing
-
 
 Work Experience
 ======
@@ -71,32 +68,29 @@ rehabilitation approaches of trafficked women for CRY.
 
 * Part-Time Instructor - Communicative English & Corporate Communication
 
-
 Additional Courses Qualified To Teach
 ======
 * Social Science Research Methods, Theories of International Relations, Theories of
 Comparative Politics, International Law, Religion and Politics, Politics of South Asia,
 International Conflict, Conflict Management, International Organization.
 
-
 Editorial Experience
 ======
 * Editorial Contribution in the undergraduate textbook Readings in American National
 Government by Miller and Holmes, Summer 2017, Summer 2019
 
-
 Professional Memberships
 ======
-** International Studies Association (ISA)
-** Canadian Political Science Association (CPSA)
-** Western Social Science Association (WSSA)
+* International Studies Association (ISA)
+* Canadian Political Science Association (CPSA)
+* Western Social Science Association (WSSA)
 
 Language Proficiency
 ======
-** English - Professional proficiency
-** Bengali - Mother tongue
-** Hindi - Colloquial proficiency
-** Marathi - Limited proficiency
+* English - Professional proficiency
+* Bengali - Mother tongue
+* Hindi - Colloquial proficiency
+* Marathi - Limited proficiency
 
 <!---
 Publications
