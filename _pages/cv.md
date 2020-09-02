@@ -35,11 +35,11 @@ electoral benefits.
 
 Awards
 ======
-* PhD Research Small Grants, UT Dallas | 2019 and 2018
-* Best Graduate Paper Award, Western Social Science Association Conference | 2018
+* PhD Research Small Grants, UT Dallas, 2019 and 2018
+* Best Graduate Paper Award, Western Social Science Association Conference, 2018
 * Second Runner Up, Second Annual Business Case Competition, Center for Global
-* Business, Naveen Jindal Institute for Indo-American Business Studies | 2018
-* Debesh Kamal Scholarship, RKM India | 2015
+* Business, Naveen Jindal Institute for Indo-American Business Studies, 2018
+* Debesh Kamal Scholarship, RKM India, 2015
 
 Skills
 ======
